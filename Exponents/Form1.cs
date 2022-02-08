@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 
 /**************************************
- * Name: Kayla Mead
+ * Name: Kayla Mead 
  * Date: February 7th, 2022
  * Description: A program using user-created method
  *              for the math function Square and Cube
